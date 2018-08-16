@@ -15,7 +15,7 @@ An industrial ZPL printer with embedded website and network is required for this
 ## Label format
 Display label format on preview tab by selected a standard or custom label format.
 
-# Screenshoot
+## Screenshoot
 <p align="center">
   <img src="https://static.wixstatic.com/media/9b4f86_9d30b7c9906b460e89fe45f8f5ca7e5f~mv2.png/v1/crop/x_3,y_0,w_1913,h_1040/fill/w_758,h_412,al_c,q_80,usm_0.66_1.00_0.01/9b4f86_9d30b7c9906b460e89fe45f8f5ca7e5f~mv2.webp">
 </p>
