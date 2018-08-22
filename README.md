@@ -28,6 +28,7 @@ Initial version
 New:
 - Show ZPL command help depending on carret position.
 - Convert image to ZPL code by using Insert / Image menu
+
 Bug correction:
 - http 400 error when using character '=' in ZPL code
 
