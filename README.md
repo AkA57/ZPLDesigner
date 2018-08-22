@@ -21,10 +21,10 @@ Display label format on preview tab by selected a standard or custom label forma
 </p>
 
 # Changelog
-##v0.2
+## v0.2
 Initial version
 
-##v0.3
+## v0.3
 New:
 - Show ZPL command help depending on carret position.
 - Convert image to ZPL code by using Insert / Image menu
