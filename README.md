@@ -10,7 +10,7 @@ By hovering the mouse pointer over the desired ZPL command, a detailled descript
 ### Preview and Print
 By pressing F5 or clicking on Preview button, ZPL Designer will display the result of you ZPL code on the Preview tab. You will be able to zoom/unzoom, rotate or save the generated label as an image.
 
-An industrial ZPL printer with embedded website and network is required for this feature. Enter the IP address of the printer on the top menu and click on the two arrows to connect.
+An industrial ZPL printer with embedded website and network is required for this feature. Enter the IP address of the printer on the top menu and click on the two arrows to connect. You are now able to use the print and preview functions.
 
 ### Label format
 Display label format on preview tab by selected a standard or custom label format.
