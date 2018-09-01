@@ -1,6 +1,6 @@
 # ZPLDesigner
 ## Description
-This software allow you to create, preview and print label based on Zebra Programming Language (ZPL).
+ZPLDesigner is a free and easu-to-use software utility that allows you to create, preview and print label based on Zebra Programming Language (ZPL).
 
 ## Features
 ### ZPL commands
@@ -10,7 +10,7 @@ By hovering the mouse pointer over the desired ZPL command, a detailled descript
 ### Preview and Print
 By pressing F5 or clicking on Preview button, ZPL Designer will display the result of you ZPL code on the Preview tab. You will be able to zoom/unzoom, rotate or save the generated label as an image.
 
-An industrial ZPL printer with embedded website and network is required for this feature.
+An industrial ZPL printer with embedded website and network is required for this feature. Enter the IP address of the printer on the top menu and click on the two arrows to connect.
 
 ### Label format
 Display label format on preview tab by selected a standard or custom label format.
