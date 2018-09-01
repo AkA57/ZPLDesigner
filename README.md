@@ -1,6 +1,6 @@
 # ZPLDesigner
 ## Description
-ZPLDesigner is a free and easu-to-use software utility that allows you to create, preview and print label based on Zebra Programming Language (ZPL).
+ZPLDesigner is a free and easy-to-use software utility that allows you to create, preview and print label based on Zebra Programming Language (ZPL).
 
 ## Features
 ### ZPL commands
