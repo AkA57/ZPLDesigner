@@ -2,4 +2,5 @@
 <ZPLDesigner>  
   <version>0.3.0.1</version>  
   <url>https://sourceforge.net/projects/zpldesigner/</url>  
+  <whatnew>New:\r\n- Show ZPL command help depending on carret position.\r\n- Convert image to ZPL code by using Insert / Image menu\r\n\r\nBug correction:\r\n- http 400 error when using character '=' in ZPL code</whatnew>
 </ZPLDesigner>  
