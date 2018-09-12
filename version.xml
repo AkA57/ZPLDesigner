@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>  
 <ZPLDesigner>  
-  <version>0.3.0.1</version>  
+  <version>0.4.0.1</version>  
   <url>https://sourceforge.net/projects/zpldesigner/</url>  
-  <whatnew>New:\r\n- Show ZPL command help depending on carret position.\r\n- Convert image to ZPL code by using Insert / Image menu\r\n\r\nBug correction:\r\n- http 400 error when using character '=' in ZPL code</whatnew>
+  <whatnew>New:\r\n- ZPL command parameters are now display more clearly.\r\n- ZPL command can now be sorted by name or category (Barcode, Text, Graphic,...).\r\n- A search box is now available on ZPL command list.\r\n- An assistant will help you to use ZPL command.</whatnew>
 </ZPLDesigner>  
