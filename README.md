@@ -32,3 +32,11 @@ New:
 Bug correction:
 - http 400 error when using character '=' in ZPL code
 
+## v0.4
+New features
+- Check for update at startup.
+- ZPL command parameters are now display more clearly.
+- ZPL command can now be sorted by name or category (Barcode, Text, Graphic,...).
+- A search box is now available on ZPL command list.
+- An assistant will help you to use ZPL command.
+
